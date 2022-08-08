@@ -1,4 +1,4 @@
-package com.labpradoesprojetospring.service;
+package service;
 
 import com.labpradoesprojetospring.model.Cliente;
 import org.springframework.stereotype.Service;

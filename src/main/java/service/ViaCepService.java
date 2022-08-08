@@ -1,4 +1,4 @@
-package com.labpradoesprojetospring.service;
+package service;
 
 import com.labpradoesprojetospring.model.Endereco;
 

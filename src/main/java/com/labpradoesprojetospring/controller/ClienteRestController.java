@@ -1,7 +1,7 @@
 package com.labpradoesprojetospring.controller;
 
 import com.labpradoesprojetospring.model.Cliente;
-import com.labpradoesprojetospring.service.ClienteService;
+import service.ClienteService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
